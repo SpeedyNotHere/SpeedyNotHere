@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @SpeedyNotHere
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning how to get this stuff going
-- 📫 How to reach me (Reddit: u/SpeedyT_) | (Twitter: @SpeedyNotHere)
+> sees yt video about someone doing cool shit
+> looks up tutorial
+> has to learn a whole language
+> chatgpt make ne x and y
 
 <!---
 SpeedyNotHere is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
